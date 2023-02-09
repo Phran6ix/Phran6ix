@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phran6ix
 - 👀 I am a backend developer 
-- 🌱 I write NodeJs, ExpressJS, MongoDb and Mongoose
+- 🌱 I write NodeJs, ExpressJS, AdonisJS, MongoDb and Mongoose
 - 
 - 📫 How to reach me on email: francisolatinwo@gmail.com
 
