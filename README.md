@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Phran6ix
-- 👀 I am a backend developer 
-- 🌱 I write  Typescript, NodeJs, ExpressJS, AdonisJS, MongoDb and its framework, Prisma
+- 👀 I am a software engineer
 - 
 - 📫 How to reach me on email: francisolatinwo@gmail.com
 
